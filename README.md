@@ -29,7 +29,7 @@ Analista de Testes na Betha Sistemas 🐞💼
   <img src=https://img.shields.io/badge/-Playwright%20-%23525252.svg?style=flat&logo=Playwright&logoColor=green&>
   <img src=https://img.shields.io/badge/-Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
   <img src=https://img.shields.io/badge/-K6%20-%23525252.svg?style=flat&logo=k6&logoColor=purple&>
-  <img src=https://img.shields.io/badge/-Jmeter%20-%23525252.svg?style=flat&logo=jmeter&logoColor=red&>
+  <img src="https://img.shields.io/badge/-Apache JMeter-%23525252?style=flat&logo=apachejmeter&logoColor=white"/>
   <img src=https://img.shields.io/badge/Robot%20Framework%20-%23525252.svg?style=flat&logo=robot-framework&logoColor=white>
   <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
   <img src="https://img.shields.io/badge/-CodeceptJS-%23525252?style=flat&logo=codeceptjs&logoColor=white"/>
