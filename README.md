@@ -33,6 +33,8 @@ Analista de Testes na Betha Sistemas 🐞💼
   <img src=https://img.shields.io/badge/Robot%20Framework%20-%23525252.svg?style=flat&logo=robot-framework&logoColor=white>
   <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
   <img src="https://img.shields.io/badge/-CodeceptJS-%23525252?style=flat&logo=codeceptjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-%23525252?style=flat&logo=docker&logoColor=white"/>
+
  </p>
  
  ## Sistemas Operacionais:
