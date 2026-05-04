@@ -20,6 +20,7 @@ Analista de Testes na Betha Sistemas 🐞💼
 <img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20>
 <img src=https://img.shields.io/badge/-CTFLAT%20-%23525252.svg?style=flat>
 <img src=https://img.shields.io/badge/-CTALTAE%20-%23525252.svg?style=flat>
+<img src=https://img.shields.io/badge/-CTGENAI%20-%23525252.svg?style=flat>
 </p>
 
 ## Cursos de automação de testes:
