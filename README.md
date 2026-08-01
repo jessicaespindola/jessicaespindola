@@ -1,11 +1,10 @@
 ### Olá, sou Jéssica Espíndola da Silva!❤️
-Analista de Testes na Betha Sistemas 🐞💼
+Analista de Qualidade na Betha Sistemas 🐞💼
 
 <div> 
  <a href="https://www.linkedin.com/in/j%C3%A9ssica-esp%C3%ADndola-da-silva-81920076" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/Jéssica Espíndola da Silva#0740" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://t.me/jeespindolasilva" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jeespindolasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatojessicaespindoladasilva5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -35,6 +34,7 @@ Analista de Testes na Betha Sistemas 🐞💼
   <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
   <img src="https://img.shields.io/badge/-CodeceptJS-%23525252?style=flat&logo=codeceptjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-%23525252?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Appium-%23525252?style=flat&logo=appium&logoColor=white"/>
 
  </p>
  
@@ -45,13 +45,6 @@ Analista de Testes na Betha Sistemas 🐞💼
   <img src=https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&>
 </p>
  
- ##
-<div align="center">
-  <a href="https://github.com/jessicaespindola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicaespindola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaespindola&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-
 ##
   
 📝 Alguns Cursos, Imersões e Eventos:
