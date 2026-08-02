@@ -1,5 +1,12 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jessicaespindola&label=Profile%20views&color=525252&style=flat" alt="Profile views"/>
+</p>
+
+
 ### Olá, sou Jéssica Espíndola da Silva!❤️
 Analista de Qualidade na Betha Sistemas 🐞💼
+
 
 <div> 
  <a href="https://www.linkedin.com/in/j%C3%A9ssica-esp%C3%ADndola-da-silva-81920076" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
