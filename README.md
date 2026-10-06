@@ -5,7 +5,7 @@
 
 
 ### Olá, sou Jéssica Espíndola da Silva!❤️
-Analista de Qualidade na Betha Sistemas 🐞💼
+Quality Engineer at SigmaMD 🐞💼
 
 
 <div> 
